@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://siabah.subang.go.id/-/agen-slot/sitemap.xml
